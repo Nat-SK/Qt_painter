@@ -10,4 +10,4 @@ Qt Painter is an application for creating themes using Qt exclusively.
 * Wiki  
 * Participation  
 
-## Installation  
+## Installation
